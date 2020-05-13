@@ -7,5 +7,4 @@ Build a Modern Computer from First Principles: From Nand to Tetris
 [Software | nand2tetris](https://www.nand2tetris.org/software)
 
 ## License
-
-[GPL](LICENSE)
+[GNU General Public License v3](LICENSE)
