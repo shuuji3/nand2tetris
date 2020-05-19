@@ -3,5 +3,7 @@
 # 提出用のzipファイルを作成する
 
 n=$1; shift
-zip -r project$n.zip $n/*
+cd $n
+zip -r ../project$n.zip *
+cd ..
 
