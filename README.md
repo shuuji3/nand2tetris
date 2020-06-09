@@ -27,4 +27,10 @@ In this nand2tetris project, I built the following chips.
 [Software | nand2tetris](https://www.nand2tetris.org/software)
 
 ## License
+
 [GNU General Public License v3](LICENSE)
+
+## Development
+
+- Write codes.
+- After finishing and submitting a project, set a tag to the commit in the following format: `project-<project number>`.
